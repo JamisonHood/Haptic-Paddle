@@ -1,2 +1,3 @@
 # Haptic-Paddle
-Haptic paddle documentation
+
+The haptic paddle is a low cost haptic feedback device intended to be used in STEM education. 
